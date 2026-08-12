@@ -12,33 +12,7 @@
       },
       "url": "https://github.com/Tokinx/cf-server-monitor-theme-emerald",
       "branch": "build",
-      "author": "Tokinx",
-      "versions": [
-        {
-          "version": "v1.0.15",
-          "commitid": "ab9c41d0df79aeb1cae942cff03d4475a9094ca1",
-          "releaseDate": "2026-07-27",
-          "changelog": "添加内核版本字段到节点信息,优化坐标轴标签并隐藏不必要的指针显示"
-        },
-        {
-          "version": "v1.0.14",
-          "commitid": "1836f9245abcac54197fddce4ac6b0e4060a6c56",
-          "releaseDate": "2026-07-26",
-          "changelog": "修复世界地图资源路径，添加 GPU 信息解析与显示功能，支持多显卡展示"
-        },
-        {
-          "version": "v1.0.13",
-          "commitid": "46f04880f6716470dde5a0d194050b18b1d23b74",
-          "releaseDate": "2026-07-26",
-          "changelog": "更新历史记录时长逻辑以支持多后端聚合"
-        },
-        {
-          "version": "v1.0.12",
-          "commitid": "c0de04fc77f2df1f29827bd9fee889131f273da7",
-          "releaseDate": "2026-07-26",
-          "changelog": "兼容主题商店"
-        }
-      ]
+      "author": "Tokinx"
     },
     {
       "id": "pulse",
