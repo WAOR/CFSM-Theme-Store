@@ -52,6 +52,19 @@
       "url": "https://github.com/loongkong/cf-server-monitor-theme-pulse",
       "branch": "main",
       "author": "loongkong"
+    },
+    {
+      "id": "luminaplus",
+      "title": "LuminaPlus",
+      "cover": "https://raw.githubusercontent.com/volcano-1025/CFSM-Theme-LuminaPlus/main/docs/preview.png",
+      "tags": ["LuminaPlus", "Cards", "Realtime"],
+      "description": {
+        "zh-CN": "清爽的卡片式主题。大 / 小 / 迷你 / 列表四种视图，实时更新，含三网延迟丢包、价格到期与流量统计。",
+        "en": "A clean card-based theme. Four layouts (large / compact / mini / list), realtime updates, per-carrier latency and loss bars, plus price, expiry and traffic stats."
+      },
+      "url": "https://github.com/volcano-1025/CFSM-Theme-LuminaPlus",
+      "branch": "dist",
+      "author": "volcano-1025"
     }
   ]
 }
