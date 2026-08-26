@@ -39,6 +39,19 @@
       "url": "https://github.com/volcano-1025/CFSM-Theme-LuminaPlus",
       "branch": "dist",
       "author": "volcano-1025"
+    },
+    {
+      "id": "horizon",
+      "title": "Horizon",
+      "cover": "https://raw.githubusercontent.com/akasls/Horizon-CF-Server-Monitor/main/docs/preview.png",
+      "tags": ["Horizon", "Flat", "Clean"],
+      "description": {
+        "zh-CN": "为 CF-Server-Monitor 设计的扁平、简洁、现代且精确的仪表盘主题。",
+        "en": "A flat, clean, modern, and precision dashboard theme for CF-Server-Monitor"
+      },
+      "url": "https://github.com/akasls/Horizon-CF-Server-Monitor",
+      "branch": "build",
+      "author": "akasls"
     }
   ]
 }
