@@ -1,13 +1,13 @@
 name: Build Themes
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'themes.json'
-      - 'scripts/build-themes.sh'
-      - '.github/workflows/build-themes.yml'
+  # push:
+  #   branches:
+  #     - main
+  #   paths:
+  #     - 'themes.json'
+  #     - 'scripts/build-themes.sh'
+  #     - '.github/workflows/build-themes.yml'
   workflow_dispatch:
 
 permissions:

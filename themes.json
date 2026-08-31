@@ -52,6 +52,19 @@
       "url": "https://github.com/akasls/Horizon-CF-Server-Monitor",
       "branch": "build",
       "author": "akasls"
+    },
+    {
+      "id": "junimo",
+      "title": "Junimo",
+      "cover": "https://raw.githubusercontent.com/huilang-me/cfsm-junimo/main/preview.png",
+      "tags": ["Junimo", "Game", "Stardew Valley"],
+      "description": {
+        "zh-CN": "一款灵感来源于游戏《星露谷物语》的主题。",
+        "en": "A theme inspired by the game Stardew Valley."
+      },
+      "url": "https://github.com/huilang-me/cfsm-junimo",
+      "branch": "build",
+      "author": "huilang-me"
     }
   ]
 }
