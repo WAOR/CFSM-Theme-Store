@@ -65,6 +65,19 @@
       "url": "https://github.com/huilang-me/cfsm-junimo",
       "branch": "build",
       "author": "huilang-me"
+    },
+    {
+      "id": "shadcn",
+      "title": "Shadcn",
+      "cover": "https://raw.githubusercontent.com/LanHuangJG/cf-server-monitor-theme-shadcn/master/docs/preview.png",
+      "tags": ["shadcn", "React", "Cards", "Realtime"],
+      "description": {
+        "zh-CN": "React 19 + shadcn/ui 主题。卡片/表格/环形三视图，实时 WebSocket，三网延迟与丢包、历史曲线、计费与剩余价值（人民币折算），响应式骨架屏与明暗切换。",
+        "en": "A React 19 + shadcn/ui theme with card/table/ring views, realtime WebSocket, per-carrier latency & loss, history charts, billing and remaining value (CNY), responsive skeletons and dark mode."
+      },
+      "url": "https://github.com/LanHuangJG/cf-server-monitor-theme-shadcn",
+      "branch": "build",
+      "author": "LanHuangJG"
     }
   ]
 }
