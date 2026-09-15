@@ -78,6 +78,19 @@
       "url": "https://github.com/LanHuangJG/cf-server-monitor-theme-shadcn",
       "branch": "build",
       "author": "LanHuangJG"
+    },
+    {
+      "id": "glassmorphism",
+      "title": "Glassmorphism",
+      "cover": "https://raw.githubusercontent.com/allury/CFSM-Glassmorphism/main/docs/preview.webp",
+      "tags": ["Glassmorphism", "Earth", "Charts", "Realtime"],
+      "description": {
+        "zh-CN": "毛玻璃风格主题。三种地球 / 地图渲染可选可关，卡片与列表两种视图、四档卡片密度，节点详情含信息卡与历史图表，并内置 48 项主题设置页。",
+        "en": "A glassmorphism theme with three optional globe/map renderers, card and list views in four densities, per-node detail with info cards and history charts, and a built-in settings page of 48 options."
+      },
+      "url": "https://github.com/allury/CFSM-Glassmorphism",
+      "branch": "theme-dist",
+      "author": "allury"
     }
   ]
 }
