@@ -91,6 +91,19 @@
       "url": "https://github.com/allury/CFSM-Glassmorphism",
       "branch": "theme-dist",
       "author": "allury"
+    },
+    {
+      "id": "win2000",
+      "title": "Win2000",
+      "cover": "https://raw.githubusercontent.com/finch-xu/CF-Server-Monitor-theme-win2000/main/docs/preview.png",
+      "tags": ["Win2000", "Retro", "Classic"],
+      "description": {
+        "zh-CN": "Windows 2000 经典风格主题。整个页面是一个灰色立体窗口，卡片 / 圆环 / 表格 / 地图四种视图，任务管理器风格图表，支持深浅配色、三网延迟、价格与剩余价值。",
+        "en": "A Windows 2000 classic style theme. The whole page is one beveled gray window with card, ring, table and map views, Task Manager style charts, light and dark palettes, per-carrier latency, price and remaining value."
+      },
+      "url": "https://github.com/finch-xu/CF-Server-Monitor-theme-win2000",
+      "branch": "build",
+      "author": "finch-xu"
     }
   ]
 }
