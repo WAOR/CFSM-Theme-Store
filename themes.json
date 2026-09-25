@@ -104,6 +104,19 @@
       "url": "https://github.com/finch-xu/CF-Server-Monitor-theme-win2000",
       "branch": "build",
       "author": "finch-xu"
+    },
+    {
+      "id": "sao",
+      "title": "SAO",
+      "cover": "https://raw.githubusercontent.com/WAOR/CFSM-SAO/main/preview.png",
+      "tags": ["SAO", "Minimal", "Modern", "Realtime"],
+      "description": {
+        "zh-CN": "SAO 系列探针主题的 CFSM 版本。提供丰富指标信息卡片、支持吞吐波形图、节点标签自定义着色、带宽实时评级徽章、优化加载速度和移动端界面。",
+        "en": "CFSM version of the SAO series probe theme. It provides rich metric information cards, supports throughput waveform charts, custom coloring for node labels, real-time bandwidth rating badges, optimized loading speed, and a mobile interface."
+      },
+      "url": "https://github.com/WAOR/CFSM-SAO",
+      "branch": "dist",
+      "author": "WAOR"
     }
   ]
 }
