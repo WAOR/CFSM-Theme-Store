@@ -117,6 +117,19 @@
       "url": "https://github.com/WAOR/CFSM-SAO",
       "branch": "dist",
       "author": "WAOR"
+    },
+    {
+      "id": "anotherluminaplus",
+      "title": "AnotherLuminaPlus",
+      "cover": "https://raw.githubusercontent.com/Vegas7/CFSM-Theme-AnotherLuminaPlus/main/docs/preview.png",
+      "tags": ["AnotherLuminaPlus", "Cards", "Realtime", "Charts"],
+      "description": {
+        "zh-CN": "基于 LuminaPlus 二次修改的卡片式主题。四种卡片视图，流量按当前计费周期显示；详情页负载与 Ping 同页展示，仿哪吒监控样式丢包图：延迟与丢包合并在一张图里，可点选线路单独查看。",
+        "en": "A card-based theme forked from LuminaPlus. Four card layouts with per-billing-cycle traffic; the detail page shows load and ping together, with a Nezha-style loss chart that combines latency and packet loss in one view and lets you focus on individual lines."
+      },
+      "url": "https://github.com/Vegas7/CFSM-Theme-AnotherLuminaPlus",
+      "branch": "dist",
+      "author": "Vegas7"
     }
   ]
 }
