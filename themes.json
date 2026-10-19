@@ -148,6 +148,24 @@
       "url": "https://github.com/ayingQAQ/cf-monitor-theme-hahaha",
       "branch": "dist",
       "author": "ayingQAQ"
+    },
+    {
+      "id": "crt",
+      "title": "CRT",
+      "cover": "https://raw.githubusercontent.com/huilang-me/CFSM-CRT/main/preview.png",
+      "tags": [
+        "Terminal",
+        "Monospace",
+        "Retro",
+        "Realtime"
+      ],
+      "description": {
+        "zh-CN": "终端风格主题，把服务器列表做成 tmux 状态栏、htop 面板、top 表格和 CLI提示符。支持分组与名称筛选、多数据源、CPU/内存/网速/磁盘/Ping/丢包历史曲线（10 分钟 ~ 7 天）、GPU、磁盘IO、连接数与负载，并提供 6 套配色与明暗外观。",
+        "en": "A terminal theme that turns your fleet into a tmux status bar, htop panes, a top table and CLI prompts.Supports group and name filters, multiple backends, CPU/memory/network/disk/ping/loss history from 10 minutes to 7 days, GPU, disk IO, connections and load average, with six colour schemes and light/dark appearance."
+      },
+      "url": "https://github.com/huilang-me/CFSM-CRT",
+      "branch": "dist",
+      "author": "huilang-me"
     }
   ]
 }
